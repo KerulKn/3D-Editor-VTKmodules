@@ -16,4 +16,8 @@ A custom 3D editing tool built using Python and VTKmodules, inspired by basic Bl
 	•	Python 2.7
 	•	VTK (Visualization Toolkit)
 	•	PyQt for UI
-  
+
+  <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/2d691de3-4562-4f6b-a7b9-89c4564dd5c1" />
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/8b919863-d812-4324-ab04-e7cdb92430b4" />
+
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/dcc9b05b-4a31-49ae-a90c-519e44e1ace5" />
